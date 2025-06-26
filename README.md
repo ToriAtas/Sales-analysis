@@ -38,10 +38,12 @@ _You can access and interact with the Power BI dashboard_ [here](https://github.
 - Most customer leads fall under **Medium and High priority**, suggesting a focus on mid-urgency B2B clients.
 - High-volume, low-price items dominate, with few outliers in the premium product segment.
 
+
 ## Conclusions
 <p align="justify">
 The dashboard reveals a strong business performance foundation with clear opportunities for growth through targeted regional expansion, product optimization, and customer segmentation. Continued data-driven strategy will enable better forecasting, inventory planning, and campaign effectiveness in the competitive landscape.
 </p>
+
 
 ## Recommendations
 <p align="justify">
