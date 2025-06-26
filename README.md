@@ -39,13 +39,17 @@ _You can access and interact with the Power BI dashboard_ [here](https://github.
 - High-volume, low-price items dominate, with few outliers in the premium product segment.
 
 
+---
 ## Conclusions
+
 <p align="justify">
 The dashboard reveals a strong business performance foundation with clear opportunities for growth through targeted regional expansion, product optimization, and customer segmentation. Continued data-driven strategy will enable better forecasting, inventory planning, and campaign effectiveness in the competitive landscape.
 </p>
 
 
+---
 ## Recommendations
+
 <p align="justify">
 Based on the sales performance analysis, several strategic recommendations are proposed to enhance business outcomes. The Central region, having consistently outperformed others, should receive deeper investment in terms of sales operations and marketing to solidify its market dominance. Meanwhile, underperforming regions such as Africa, the West, and the Caribbean present untapped potential and should be explored through localized market research, targeted promotions, and potential partnerships. The product portfolio shows that technology items, particularly Zebra printers, are top performers and should be prioritized, while low-selling products may require reevaluation or repositioning. Seasonal spikes in Q4 suggest a strong case for increasing inventory and promotional activities ahead of October through December. However, inconsistencies between discount levels and sales volume indicate a need for more data-driven discount strategies to preserve profit margins. Although medium-priority customer leads dominate, critical and high-priority leads—despite being fewer—should be given special attention, possibly through dedicated sales reps or account management. The low-volume sales of high-priced products suggest an opportunity for bundling or strategic upselling. Additionally, states with low sales activity should be targeted for geographic expansion through outreach and regional sales efforts. Finally, a close eye should be kept on the price-to-quantity ratio to support demand forecasting, and customer feedback should be integrated into future analyses to ensure product strategies align with user expectations. Collectively, these recommendations aim to drive sales growth, operational efficiency, and market expansion. </p>
 
